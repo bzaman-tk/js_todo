@@ -43,4 +43,4 @@ search.addEventListener('keyup', () => {
     //if (term.length) {
     filterTodos(term);
     //}
-});
+}); 
